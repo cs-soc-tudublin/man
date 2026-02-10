@@ -1,0 +1,9 @@
+mkdocs-material
+mkdocs-awesome-pages-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-callouts
+material-plausible-plugin
+mkdocs-glightbox
+mkdocs-redirects
+mkdocs-material[imaging]
+mkdocs-link-marker
