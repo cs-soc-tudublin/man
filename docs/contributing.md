@@ -1,0 +1,35 @@
+---
+title: Contributing to man
+created: 2026-02-10T15:41:23
+modified: 2026-02-10T15:50:48
+tags:
+   - general
+---
+
+# Contributing to `man`
+
+`man`, or `manpage` is CS++'s operational docs.
+
+These docs focus on the non-technical area of CS++ and covers everything from role definitions, tasks, events and other procedures we might need to successfully run the society.
+
+This wiki is maintained through a Git repository that can be found [here](https://github.com/cs-soc-tudublin/man), and is best edited through [Obsidian](https://obsidian.md/).
+
+# Cloning the Repo
+
+First, clone the repo. For this you will need git installed and configures
+
+```bash
+git clone github.com/cs-soc-tudublin/man.git
+```
+
+Then open Obsidian and set **`man/docs`** as your vault directory! Setting it to just **`man`** will include more files than you need, but will still work.
+
+# Creating a Page
+
+This is the most common task outside of modifying pages.
+
+Find the directory you want to put the new page in, right click it and press `New Note`. This will create the file and it's title will become the filename.
+
+Once you've done that, press `CTRL + P` or `CMD + P` (depending on OS) to open the 'Command Pallette'
+
+# Creating a Directory

@@ -1,2 +1,5 @@
 nav:
 - index.md
+- Roles: roles/index.md
+- Tasks: tasks/index.md
+- Handover: handover/index.md
