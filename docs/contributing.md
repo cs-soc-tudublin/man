@@ -1,5 +1,5 @@
 ---
-title: Contributing to man
+title: Contributing
 created: 2026-02-10T15:41:23
 modified: 2026-02-10T15:54:54
 tags:

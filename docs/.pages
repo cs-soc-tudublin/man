@@ -1,8 +1,8 @@
 nav:
 - index.md
-- Roles: roles/index.md
-- Tasks: tasks/index.md
-- Handover: handover/index.md
-- Events: events/index.md
-- History: history/index.md
+- Roles: roles
+- Tasks: tasks
+- Handover: handover
+- Events: events
+- History: history
 - contributing.md
