@@ -1,7 +1,7 @@
 ---
 title: Contributing to man
 created: 2026-02-10T15:41:23
-modified: 2026-02-10T15:50:48
+modified: 2026-02-10T15:51:57
 tags:
    - general
 ---
@@ -30,6 +30,8 @@ This is the most common task outside of modifying pages.
 
 Find the directory you want to put the new page in, right click it and press `New Note`. This will create the file and it's title will become the filename.
 
-Once you've done that, press `CTRL + P` or `CMD + P` (depending on OS) to open the 'Command Pallette'
+Once you've done that, press `CTRL + P` or `CMD + P` (depending on OS) to open the 'Command Pallette' and search 'docs'. You should see an option that says `Clerk: Create a docs page`. Press `ENTER` while this is highlighted and you will get a pop-up.
+
+Enter the Page title (Which is displayed on the website) and any tags (Like the category this page is in. I.e. `handover`)
 
 # Creating a Directory
