@@ -1,0 +1,6 @@
+site/
+docs/.obsidian/workspace.json
+docs/.obsidian/graph.json
+.cache/
+venv/
+.DS_Store
